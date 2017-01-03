@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:scrollbarStyle="insideOverlay"
+    android:scrollbars="vertical"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dip"
+        android:gravity="center_horizontal"
+        android:text="@string/help"
+        android:textColor="@color/blue"
+        android:textSize="26sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/how"
+        android:textColor="@color/blue"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/howcontent"
+        android:textColor="@color/blue"
+        android:textSize="16sp"
+        android:layout_gravity="center_horizontal" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="190dp"
+        android:layout_marginTop="15dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/regle"
+        android:layout_weight="0.22" />
+
+
+
+</LinearLayout>
+

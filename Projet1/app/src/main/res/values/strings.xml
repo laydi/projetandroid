@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Color Match</string>
+    <string name="play">Play</string>
+    <string name="help">A propos du jeu</string>
+    <string name="score">Score</string>
+    <string name="level">Level</string>
+    <string name="levelone">Level 1</string>
+
+    <string name="vide">0</string>
+    <string name="bestscore">Best Scores</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About</string>
+    <string name="celebrate">Congratulation! you make a new high score.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+
+
+    <string name="replayContent">Would you like to re-play ?</string>
+    <string name="recover">Would you like to recover your old Game ?</string>
+    <string name="next">Next Level</string>
+    <string name="keep">Continue</string>
+    <string name="load">Recovery</string>
+    <string name="rules">Rules ?</string>
+    <string name="how">How to Play?</string>
+
+    <string name="howcontent">Your mission to eliminate as many blocks as possible in limited time. It is a very simple game rule.Click on the connect point of same color blocks in empty area to eliminate them. It also means the nearest blocks to connect point, either in horizontal or vertical direction, will be elimanted if they are the same color.</string>
+
+</resources>
